@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies – Energy Monitoring System (EMS)</title>
+    <meta name="description" content="Machine-wise energy intelligence. Track kWh per unit, detect idle-run waste, reduce peak demand charges, and generate ESG-ready carbon reports.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height: 45vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+        .hero h1 { font-size: 3.5rem; max-width: 900px; margin-bottom: 1rem; }
+        .hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 700px; margin-bottom: 2rem; }
+        .stat { font-size: 2.5rem; font-weight: 700; background: linear-gradient(135deg,#a755ff,#7c3aed); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+        .feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 2rem; }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top: 8rem;">
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom:2rem;"><span>Product Module — EMS</span></div>
+            <h1>Energy Monitoring <span class="text-gradient">System</span></h1>
+            <p>Know exactly which machine, line, or shift consumes the most energy per unit produced. Reduce wastage, cut peak demand charges, and generate board-ready ESG carbon reports — automatically.</p>
+            <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center;">
+                <button class="btn-primary" onclick="openContactModal()">Book a Demo</button>
+                <button class="btn-primary" style="background:rgba(255,255,255,0.08);" onclick="window.location.href='calculators.html'">Try Energy Calculator</button>
+            </div>
+        </section>
+
+        <section class="glass-panel" style="padding:3rem; text-align:center; margin:2rem 0 4rem 0; background:linear-gradient(135deg,rgba(139,49,255,0.08),rgba(124,58,237,0.04));">
+            <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:2rem;">
+                <div><div class="stat">25%</div><p style="color:var(--text-muted); margin-top:.5rem;">Energy Cost Reduction</p></div>
+                <div><div class="stat">22%</div><p style="color:var(--text-muted); margin-top:.5rem;">Idle-Run Waste Eliminated</p></div>
+                <div><div class="stat">30%</div><p style="color:var(--text-muted); margin-top:.5rem;">Carbon Footprint Reduction</p></div>
+                <div><div class="stat">100%</div><p style="color:var(--text-muted); margin-top:.5rem;">Machine-Wise Metering</p></div>
+                <div><div class="stat">0</div><p style="color:var(--text-muted); margin-top:.5rem;">Manual Energy Reports</p></div>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:center;" class="cta-grid">
+                <div>
+                    <div class="badge glass-badge" style="margin-bottom:1rem;"><span>Overview</span></div>
+                    <h2 style="font-size:2.2rem; margin-bottom:1.5rem;">What is the Energy Monitoring System?</h2>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">The Petrus EMS sub-meters energy at the machine level — not just at the feeder panel. You can see exactly how much energy every motor, compressor, HVAC unit, or utility consumes in real time and historically.</p>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">By correlating energy consumption with production output, the system computes energy per unit (kWh/unit) for each machine and line. When a machine continues to draw power during an idle period, the system automatically flags it as waste.</p>
+                    <p style="color:var(--text-muted); line-height:1.8;">For ESG-driven organisations, the EMS automatically calculates CO₂ equivalent emissions from energy data and generates BRSR, GRI, and CDP-compatible sustainability reports at the click of a button.</p>
+                </div>
+                <div class="glass-panel" style="padding:2.5rem;">
+                    <h3 style="margin-bottom:1.5rem;">EMS measures:</h3>
+                    <ul style="list-style:none; color:var(--text-muted); line-height:2.2;">
+                        <li>✓ Machine-wise kWh consumption</li>
+                        <li>✓ Voltage, current, power factor</li>
+                        <li>✓ Peak demand &amp; MD charges</li>
+                        <li>✓ Energy per unit produced (kWh/unit)</li>
+                        <li>✓ Compressed air &amp; water usage</li>
+                        <li>✓ Steam &amp; nitrogen consumption</li>
+                        <li>✓ Solar &amp; renewable contribution</li>
+                        <li>✓ CO₂ equivalent emissions (Scope 1 &amp; 2)</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:3rem; text-align:center;">Core Features</h2>
+            <div class="feature-grid">
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Machine-Level Sub-Metering</h3>
+                    <p style="color:var(--text-muted);">Smart energy meters are installed at each machine's distribution board. Live kWh data is streamed per machine every 15 seconds.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><line x1="12" y1="2" x2="12" y2="22"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    <h3 style="margin-bottom:.5rem;">kWh/Unit Benchmarking</h3>
+                    <p style="color:var(--text-muted);">Correlate energy consumption with production count. Track energy intensity over time and compare across lines, shifts, and machines.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Peak Load Management</h3>
+                    <p style="color:var(--text-muted);">Monitor MD (Maximum Demand) in real time. Alert when approaching threshold and suggest load shifting to avoid expensive peak demand penalties.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M21.21 15.89A10 10 0 1 1 8 2.83"/><path d="M22 12A10 10 0 0 0 12 2v10z"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Carbon Footprint Reporting</h3>
+                    <p style="color:var(--text-muted);">Auto-calculate Scope 1 and Scope 2 CO₂ emissions from energy data. Export board-ready ESG reports aligned with GRI, BRSR, and CDP standards.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Utility Monitoring</h3>
+                    <p style="color:var(--text-muted);">Extend beyond electricity — monitor compressed air, water, steam, chilled water, and nitrogen. Detect leaks via abnormal flow anomalies automatically.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Idle-Run &amp; Waste Detection</h3>
+                    <p style="color:var(--text-muted);">Automatically identifies machines drawing power while in non-production state. Calculates waste in kWh and ₹/month so you can prioritise action.</p>
+                </div>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:2rem; flex-wrap:wrap; gap:1rem;">
+                <div><h2 style="font-size:2rem; margin-bottom:.5rem;">Relevant Calculators</h2><p style="color:var(--text-muted);">Quantify your energy savings potential right now.</p></div>
+                <button class="btn-primary" style="padding:.6rem 1.5rem; font-size:.9rem;" onclick="window.location.href='calculators.html'">View All Calculators</button>
+            </div>
+            <input type="hidden" id="product-filter" value="Energy Monitoring System">
+            <div class="calculators-grid" id="main-grid"></div>
+        </section>
+
+        <section style="display:grid; grid-template-columns:1fr 1fr; gap:2rem; margin-bottom:5rem;" class="cta-grid">
+            <div class="glass-panel" style="padding:3rem; text-align:center; border:1px solid rgba(139,49,255,0.4); background:rgba(139,49,255,0.05);">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">Cut Your Energy Bill by 25%</h2>
+                <p style="color:var(--text-muted); margin-bottom:2rem;">Book an EMS demo — we'll show you idle-run waste and kWh/unit benchmarks for your machine types.</p>
+                <button class="btn-primary" onclick="openContactModal()">Book Demo</button>
+            </div>
+            <div class="glass-panel" style="padding:3rem; text-align:center;">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">Also Explore</h2>
+                <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-top:1rem;">
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='pms.html'">Production Monitoring</button>
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='control-tower.html'">Control Tower</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal-overlay" id="calc-modal">
+        <div class="modal-content glass-panel popup-anim">
+            <button class="close-btn" onclick="closeCalculator()">&times;</button>
+            <div class="modal-header"><span class="badge" id="modal-category" style="margin-bottom:1rem;">Category</span><h2 id="modal-title"></h2></div>
+            <div class="modal-split">
+                <div><p id="modal-desc" class="calc-description"></p><div class="inputs-grid" id="modal-inputs"></div></div>
+                <div class="calc-results-section"><div class="chart-container glass-panel-inner" id="result-container"><canvas id="result-chart"></canvas><div style="position:absolute;text-align:center;pointer-events:none;"><div style="font-size:.9rem;color:var(--text-muted);">Result</div><div class="result-value text-gradient" id="result-value">--</div></div></div></div>
+            </div>
+            <div class="modal-footer"><h4>Explore Related Calculators</h4><div class="related-pills" id="modal-related"></div></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/components.js"></script>
+</body>
+</html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies - New to IIoT?</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+        .hero h1 { font-size: 3.5rem; max-width: 900px; margin-bottom: 1.5rem; }
+        .hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 800px; margin-bottom: 2rem; line-height: 1.6; }
+        .content-section { max-width: 1000px; margin: 4rem auto; }
+        .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 2rem; }
+        .info-card { padding: 2.5rem; text-align: left; }
+        .info-card h3 { font-size: 1.5rem; margin-bottom: 1rem; color: var(--primary-purple); }
+        .info-card p { color: var(--text-muted); line-height: 1.6; }
+        .steps { display: flex; flex-direction: column; gap: 1.5rem; margin-top: 2rem; }
+        .step { display: flex; align-items: center; gap: 1.5rem; padding: 1.5rem; border-radius: 16px; background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.05); }
+        .step-num { flex-shrink: 0; width: 50px; height: 50px; background: var(--gradient-purple); color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; font-weight: bold; }
+        .step-text h4 { font-size: 1.2rem; margin-bottom: 0.5rem; }
+        .step-text p { color: var(--text-muted); margin: 0; }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top: 8rem;">
+        
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom: 2rem;">
+                <span>Beginner's Guide</span>
+            </div>
+            <h1>New to IIoT? We’ll Make It <span class="text-gradient">Simple.</span></h1>
+            <p>Digital transformation doesn’t have to be confusing. In this guide, we’ll explain what IIoT is, how it works, why manufacturers use it, and how your factory can benefit.</p>
+            <div style="display: flex; gap: 1rem;">
+                <button class="btn-primary" onclick="window.location.href='index.html'">Explore Solutions</button>
+            </div>
+        </section>
+
+        <!-- What is IIoT Section -->
+        <section class="content-section glass-panel" style="padding: 4rem;">
+            <div style="text-align: center; margin-bottom: 4rem;">
+                <h2>What Is IIoT? <span style="color: var(--text-muted); font-size: 1.5rem;">(Explained in 30 Seconds)</span></h2>
+                <p style="font-size: 1.1rem; max-width: 800px; margin: 1.5rem auto 0 auto; line-height: 1.6;">The Industrial Internet of Things (IIoT) connects your factory’s machines, people, and processes so they can share data in real time. It helps your factory make better decisions — automatically.</p>
+            </div>
+            <div class="grid-3" style="grid-template-columns: repeat(4, 1fr);">
+                <div style="text-align: center;">
+                    <div style="font-size: 3rem; margin-bottom: 1rem;">👀</div>
+                    <h4 style="margin-bottom: 0.5rem;">Eyes</h4>
+                    <p style="color: var(--text-muted); font-size: 0.9rem;">To see what's happening</p>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 3rem; margin-bottom: 1rem;">👂</div>
+                    <h4 style="margin-bottom: 0.5rem;">Ears</h4>
+                    <p style="color: var(--text-muted); font-size: 0.9rem;">To listen to issues</p>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 3rem; margin-bottom: 1rem;">🧠</div>
+                    <h4 style="margin-bottom: 0.5rem;">Memory</h4>
+                    <p style="color: var(--text-muted); font-size: 0.9rem;">To store performance data</p>
+                </div>
+                <div style="text-align: center;">
+                    <div style="font-size: 3rem; margin-bottom: 1rem;">💡</div>
+                    <h4 style="margin-bottom: 0.5rem;">A Brain</h4>
+                    <p style="color: var(--text-muted); font-size: 0.9rem;">To provide insights</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Why Care Section -->
+        <section class="content-section">
+            <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.5rem;">Why Should Manufacturers Care?</h2>
+            <div class="grid-3">
+                <div class="calc-card glass-panel info-card">
+                    <h3>📈 Higher Productivity</h3>
+                    <p>Machines produce more with fewer unplanned stops and optimal performance utilization.</p>
+                </div>
+                <div class="calc-card glass-panel info-card">
+                    <h3>⏱️ Lower Downtime</h3>
+                    <p>Breakdowns get detected early through predictive maintenance and real-time alerts.</p>
+                </div>
+                <div class="calc-card glass-panel info-card">
+                    <h3>✅ Better Quality</h3>
+                    <p>Catch problems before they reach customers by tracking manufacturing variance in-line.</p>
+                </div>
+                <div class="calc-card glass-panel info-card">
+                    <h3>⚡ Energy Savings</h3>
+                    <p>Avoid unnecessary consumption and predictably reduce high operation costs.</p>
+                </div>
+                <div class="calc-card glass-panel info-card">
+                    <h3>🔍 Traceability</h3>
+                    <p>Track every component end-to-end for seamless compliance audits and recall management.</p>
+                </div>
+                <div class="calc-card glass-panel info-card">
+                    <h3>🧠 Faster Decisions</h3>
+                    <p>Live dashboards remove guesswork and replace manual logging with automated clarity.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- How it Works -->
+        <section class="content-section glass-panel" style="padding: 4rem;">
+            <h2 style="text-align: center; font-size: 2.5rem;">How Does IIoT Work?</h2>
+            <p style="text-align: center; color: var(--text-muted); margin-bottom: 3rem;">Your factory generates a lot of data — but most of it is hidden. Here’s how IIoT reveals it.</p>
+            
+            <div class="steps">
+                <div class="step">
+                    <div class="step-num">1</div>
+                    <div class="step-text">
+                        <h4>Connect</h4>
+                        <p>Sensors & gateways read live machine data (temperature, vibration, output, energy).</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-num">2</div>
+                    <div class="step-text">
+                        <h4>Collect</h4>
+                        <p>Data flows into securely connected cloud or on-premise platforms in real time.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-num">3</div>
+                    <div class="step-text">
+                        <h4>Analyse</h4>
+                        <p>Dashboards visualize productivity, downtime, quality issues, and historical trends.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-num">4</div>
+                    <div class="step-text">
+                        <h4>Improve & Automate</h4>
+                        <p>Managers take action on immediate alerts, and predictive AI recommends long-term improvements.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section style="margin-top: 6rem; margin-bottom: 5rem; text-align: center;">
+            <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">Ready to See It in Action?</h2>
+            <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto 2rem auto;">Most deployments take only 3–4 weeks. Start small, scale fast, and see immediate ROI across your factory floors.</p>
+            <button class="btn-primary" style="font-size: 1.2rem; padding: 1rem 2.5rem;" onclick="window.location.href='index.html'">Explore Modules</button>
+        </section>
+
+    </main>
+    <script src="js/components.js"></script>
+</body>
+</html>

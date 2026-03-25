@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies - IIOT Home</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height: 80vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+        .hero h1 { font-size: 4rem; max-width: 900px; margin-bottom: 1.5rem; }
+        .hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 700px; margin-bottom: 2rem; line-height: 1.6; }
+        .features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 4rem; }
+        .feature-card { padding: 2rem; text-align: left; }
+        .feature-icon { font-size: 2.5rem; margin-bottom: 1rem; }
+        .industry-links { display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-top: 2rem; }
+        .industry-tag { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); padding: 0.8rem 1.5rem; border-radius: 100px; color: white; text-decoration: none; transition: all 0.3s; }
+        .industry-tag:hover { background: rgba(139, 92, 246, 0.3); border-color: var(--primary-purple); }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top: 8rem;">
+        
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom: 2rem;">
+                <span>Integrated Solutions</span>
+            </div>
+            <h1>Transform Your Factory with <span class="text-gradient">Real-Time Intelligence</span></h1>
+            <p>Production • Quality • Maintenance • Energy • Traceability • Assembly — all unified in one connected IIoT platform. Make faster decisions, reduce losses, and improve performance across every line.</p>
+            <div style="display: flex; gap: 1rem;">
+                <button class="btn-primary" onclick="window.location.href='pms.html'">Explore Solutions</button>
+                <button class="btn-primary" style="background: rgba(255,255,255,0.1);" onclick="window.location.href='new-to-iiot.html'">New to IIoT? Start Here →</button>
+            </div>
+        </section>
+
+        <!-- What We Do -->
+        <section style="margin-top: 5rem;">
+            <div style="text-align: center; margin-bottom: 0;">
+                <h2 style="font-size: 2.5rem;">Connected Intelligence Across Your Entire Factory</h2>
+                <p style="color: var(--text-muted);">Scroll to explore our core modules built for instant visibility.</p>
+            </div>
+            <div class="horizontal-scroll" style="display: flex; gap: 2rem; overflow-x: auto; padding-bottom: 2rem; margin-top: 4rem; scroll-snap-type: x mandatory;">
+                <!-- Module 1 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+                    </div>
+                    <h3>1. Production Monitoring System</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">Gain instant visibility into output, downtime, and utilization.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Stop production losses caused by blind spots.<br>
+                        <strong>For:</strong> Plant Heads & Operations Managers<br>
+                        <strong>When:</strong> Need real-time production transparency.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='pms.html'">Explore Module</button>
+                </div>
+                <!-- Module 2 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h4l3-9 5 18 3-9h5"></path></svg>
+                    </div>
+                    <h3>2. Condition Monitoring System</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">Monitor machine vibration, temperature, and health indicators.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Prevent sudden breakdowns and reduce MTTR.<br>
+                        <strong>For:</strong> Maintenance & Reliability Engineers<br>
+                        <strong>When:</strong> High downtime or unpredictable failures.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='cms.html'">Explore Module</button>
+                </div>
+                <!-- Module 3 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg>
+                    </div>
+                    <h3>3. Control Tower</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">One unified dashboard for complete factory oversight.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Break departmental silos and manage operations centrally.<br>
+                        <strong>For:</strong> CXOs & Plant Heads<br>
+                        <strong>When:</strong> Multi-line or multi-plant operations.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='control-tower.html'">Explore Module</button>
+                </div>
+                <!-- Module 4 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                    </div>
+                    <h3>4. Quality Management System</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">Digital quality checks, defect tracking, and in-line validation.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Reduce rework and improve first-pass yield.<br>
+                        <strong>For:</strong> Quality Teams & Operations<br>
+                        <strong>When:</strong> Quality variation or compliance pressure is high.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='qms.html'">Explore Module</button>
+                </div>
+                <!-- Module 5 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                    </div>
+                    <h3>5. Traceability System</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">Track every component from raw material to finished product.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Faster root-cause analysis and zero-compromise compliance.<br>
+                        <strong>For:</strong> QA, Compliance & Operations<br>
+                        <strong>When:</strong> For recall management and regulatory industries.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='traceability.html'">Explore Module</button>
+                </div>
+                <!-- Module 6 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
+                    </div>
+                    <h3>6. Energy Monitoring System</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">Machine-wise and utility-wise energy intelligence in real-time.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Reduce wastage and optimize peak electrical loads.<br>
+                        <strong>For:</strong> ESG Officers & Plant Heads<br>
+                        <strong>When:</strong> Energy cost is a major contributor to EBITDA.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='ems.html'">Explore Module</button>
+                </div>
+                <!-- Module 7 -->
+                <div class="calc-card glass-panel feature-card" style="min-width: 350px; scroll-snap-align: start;">
+                    <div class="feature-icon" style="color: var(--primary-purple);">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><circle cx="15.5" cy="8.5" r="1.5"></circle><circle cx="15.5" cy="15.5" r="1.5"></circle><circle cx="8.5" cy="15.5" r="1.5"></circle></svg>
+                    </div>
+                    <h3>7. Assembly Tracking System</h3>
+                    <p style="color: var(--text-muted); margin: 1rem 0; min-height: 50px;">Digital SOPs, step validations, Andon alerts & assembly analytics.</p>
+                    <div style="font-size: 0.9rem;">
+                        <strong>Why:</strong> Eliminate operator errors and streamline assembly lines.<br>
+                        <strong>For:</strong> R&D, Production & Quality<br>
+                        <strong>When:</strong> Manual or semi-automated assembly processes.
+                    </div>
+                    <button class="btn-primary" style="margin-top: 1.5rem; width: 100%;" onclick="window.location.href='assembly.html'">Explore Module</button>
+                </div>
+            </div>
+            
+            <div style="text-align: center; margin-top: 3rem;">
+                <button class="btn-primary" onclick="window.location.href='pms.html'">View All 8 Modules</button>
+            </div>
+        </section>
+
+        <!-- Industry Quicklinks -->
+        <section class="glass-panel" style="margin-top: 6rem; padding: 4rem; text-align: center;">
+            <h2 style="font-size: 2rem; margin-bottom: 1rem;">Built for Every Manufacturing Industry</h2>
+            <p style="color: var(--text-muted); margin-bottom: 2rem;">Choose your industry to explore tailored solutions.</p>
+            <div class="industry-links">
+                <a href="industries.html" class="industry-tag">Automotive & Auto Components</a>
+                <a href="industries.html" class="industry-tag">FMCG & Food Processing</a>
+                <a href="industries.html" class="industry-tag">Pharma & Lifesciences</a>
+                <a href="industries.html" class="industry-tag">Textile & Garments</a>
+                <a href="industries.html" class="industry-tag">Electronics & PCB Manufacturing</a>
+                <a href="industries.html" class="industry-tag">Plastics & Injection Molding</a>
+                <a href="industries.html" class="industry-tag">Heavy Engineering / Forging</a>
+                <a href="industries.html" class="industry-tag">Industrial Fabrication</a>
+            </div>
+        </section>
+        
+        <!-- Interactive Tools Preview -->
+        <section class="glass-panel-inner" style="margin-top: 6rem; padding: 4rem; text-align: center;">
+            <div class="badge glass-badge" style="margin-bottom: 2rem;"><span>Interactive Tools & Calculators</span></div>
+            <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">See Your ROI Instantly</h2>
+            <p style="color: var(--text-muted); max-width: 600px; margin: 0 auto 2rem auto;">Compute OEE improvements, downtime loss, energy savings, and cost of poor quality with live data.</p>
+            <div style="display: flex; gap: 1rem; justify-content: center; margin-bottom: 2rem; flex-wrap: wrap;">
+                <span class="tag" style="background: rgba(139, 49, 255, 0.2); border: 1px solid var(--primary-purple); font-size: 1rem; padding: 0.5rem 1.2rem;">OEE Improvement Calculator</span>
+                <span class="tag" style="background: rgba(139, 49, 255, 0.2); border: 1px solid var(--primary-purple); font-size: 1rem; padding: 0.5rem 1.2rem;">Downtime Loss Calculator</span>
+                <span class="tag" style="background: rgba(139, 49, 255, 0.2); border: 1px solid var(--primary-purple); font-size: 1rem; padding: 0.5rem 1.2rem;">Energy Savings Estimator</span>
+            </div>
+            <button class="btn-primary" style="font-size: 1.2rem; padding: 1rem 2.5rem;" onclick="window.location.href='calculators.html'">Calculate Your Savings</button>
+        </section>
+
+        <!-- Persona-Based Navigation -->
+        <section style="margin-top: 6rem;">
+            <h2 style="text-align: center; margin-bottom: 3rem; font-size: 2.5rem;">Personalized for Every Role</h2>
+            <div class="features-grid">
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='plant-head.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">Plant Head</h3>
+                    <p style="color: var(--text-muted);">Factory Visibility & KPIs</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='operations-manager.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">Operations Manager</h3>
+                    <p style="color: var(--text-muted);">Production & WIP Tracking</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='maintenance-manager.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">Maintenance Manager</h3>
+                    <p style="color: var(--text-muted);">Condition Monitoring & Uptime</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='quality-head.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">Quality Head</h3>
+                    <p style="color: var(--text-muted);">Quality Management & Compliance</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='cio-cto.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">CIO / CTO</h3>
+                    <p style="color: var(--text-muted);">IIoT Platform & Secure Architecture</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='esg-officer.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">ESG Officer</h3>
+                    <p style="color: var(--text-muted);">Energy & Sustainability Metrics</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding: 1.5rem; cursor: pointer;" onclick="window.location.href='new-to-iiot.html'">
+                    <h3 style="color: var(--primary-purple); margin-bottom: 0.5rem;">New to IIoT</h3>
+                    <p style="color: var(--text-muted);">Beginner's Guide & Basics</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- ROI Stats Banner -->
+        <section style="margin-top: 6rem;">
+            <h2 style="text-align: center; font-size: 2.5rem; margin-bottom: 3rem;">Real Results from Real Plants</h2>
+            <div class="features-grid">
+                <div class="glass-panel" style="padding: 2rem; text-align: center;">
+                    <div class="text-gradient-stat" style="font-size: 3rem; font-weight: 700;">30%</div>
+                    <p style="color: var(--text-muted); margin-top: 0.5rem;">Higher Equipment Utilization</p>
+                </div>
+                <div class="glass-panel" style="padding: 2rem; text-align: center;">
+                    <div class="text-gradient-stat" style="font-size: 3rem; font-weight: 700;">40%</div>
+                    <p style="color: var(--text-muted); margin-top: 0.5rem;">Reduction in Unplanned Downtime</p>
+                </div>
+                <div class="glass-panel" style="padding: 2rem; text-align: center;">
+                    <div class="text-gradient-stat" style="font-size: 3rem; font-weight: 700;">25%</div>
+                    <p style="color: var(--text-muted); margin-top: 0.5rem;">Energy Savings Achieved</p>
+                </div>
+                <div class="glass-panel" style="padding: 2rem; text-align: center;">
+                    <div class="text-gradient-stat" style="font-size: 3rem; font-weight: 700;">35%</div>
+                    <p style="color: var(--text-muted); margin-top: 0.5rem;">Reduction in Rejections &amp; Rework</p>
+                </div>
+                <div class="glass-panel" style="padding: 2rem; text-align: center;">
+                    <div class="text-gradient-stat" style="font-size: 3rem; font-weight: 700;">80%</div>
+                    <p style="color: var(--text-muted); margin-top: 0.5rem;">Faster Root Cause Analysis</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trusted Partners Logo Grid -->
+        <section style="margin-top: 6rem; text-align: center;">
+            <h2 style="font-size: 2.5rem; margin-bottom: 1rem;">Trusted by Leading Manufacturers</h2>
+            <p style="color: var(--text-muted); margin-bottom: 3rem;">Technology partners &amp; customer brands powering the Petrus ecosystem.</p>
+            <div class="glass-panel" style="padding: 3rem;">
+                <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; align-items: center; row-gap: 2.5rem;">
+                    <!-- Row 1: Technology Partners -->
+                    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Allen Bradley</div>
+                    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Fanuc</div>
+                    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Siemens</div>
+                    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Havells</div>
+                    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Teal</div>
+                    <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">TVS</div>
+                    <!-- Row 2: Customer Brands -->
+                    <div style="background: rgba(139,49,255,0.12); border: 1px solid rgba(139,49,255,0.3); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">LMW TMD</div>
+                    <div style="background: rgba(139,49,255,0.12); border: 1px solid rgba(139,49,255,0.3); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">LMW MTD</div>
+                    <div style="background: rgba(139,49,255,0.12); border: 1px solid rgba(139,49,255,0.3); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">LMW ATC</div>
+                    <div style="background: rgba(139,49,255,0.12); border: 1px solid rgba(139,49,255,0.3); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">LLS</div>
+                    <div style="background: rgba(139,49,255,0.12); border: 1px solid rgba(139,49,255,0.3); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Watetech</div>
+                    <div style="background: rgba(139,49,255,0.12); border: 1px solid rgba(139,49,255,0.3); border-radius: 12px; padding: 1rem 2rem; font-weight: 700; font-size: 1.1rem; letter-spacing: 0.05em; white-space: nowrap;">Kimbal</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Case Studies & Blogs -->
+        <section style="margin-top: 6rem;">
+            <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 3rem; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <div class="badge glass-badge" style="margin-bottom: 1rem;"><span>Insights</span></div>
+                    <h2 style="font-size: 2.5rem;">Case Studies &amp; Blogs</h2>
+                </div>
+                <button class="btn-primary" style="padding: 0.7rem 1.5rem; font-size: 0.9rem;" onclick="openContactModal()">Get Full Case Study</button>
+            </div>
+            <div class="features-grid">
+                <!-- Case Study 1 -->
+                <div class="calc-card glass-panel feature-card" style="padding: 2rem; cursor: default;">
+                    <div style="background: rgba(139,49,255,0.15); border-radius: 8px; padding: 0.4rem 0.8rem; display: inline-block; font-size: 0.8rem; color: var(--primary-purple); margin-bottom: 1rem; font-weight: 600;">CASE STUDY</div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.8rem;">How a Textile Plant Achieved 28% OEE Improvement</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem;">LMW deployed Petrus PMS across 48 spinning machines, gaining real-time visibility that eliminated daily blind spots on shift output.</p>
+                    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">Textile</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">PMS</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">OEE</span>
+                    </div>
+                </div>
+                <!-- Case Study 2 -->
+                <div class="calc-card glass-panel feature-card" style="padding: 2rem; cursor: default;">
+                    <div style="background: rgba(139,49,255,0.15); border-radius: 8px; padding: 0.4rem 0.8rem; display: inline-block; font-size: 0.8rem; color: var(--primary-purple); margin-bottom: 1rem; font-weight: 600;">CASE STUDY</div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.8rem;">Energy Audit Eliminates 22% Wastage in FMCG Plant</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem;">Petrus EMS was installed on 12 utility lines at a packaging unit. Machine-wise kWh tracking revealed idle-run losses across night shifts.</p>
+                    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">FMCG</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">Energy</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">ESG</span>
+                    </div>
+                </div>
+                <!-- Blog 1 -->
+                <div class="calc-card glass-panel feature-card" style="padding: 2rem; cursor: default;">
+                    <div style="background: rgba(16,185,129,0.15); border-radius: 8px; padding: 0.4rem 0.8rem; display: inline-block; font-size: 0.8rem; color: #10b981; margin-bottom: 1rem; font-weight: 600;">BLOG</div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.8rem;">Why IIoT is Not Just for Large Enterprises</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem;">The "start small, scale fast" philosophy behind Petrus IIoT enables SME manufacturers to gain ROI within their first quarter.</p>
+                    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">IIoT</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">SME</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">Strategy</span>
+                    </div>
+                </div>
+                <!-- Blog 2 -->
+                <div class="calc-card glass-panel feature-card" style="padding: 2rem; cursor: default;">
+                    <div style="background: rgba(16,185,129,0.15); border-radius: 8px; padding: 0.4rem 0.8rem; display: inline-block; font-size: 0.8rem; color: #10b981; margin-bottom: 1rem; font-weight: 600;">BLOG</div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 0.8rem;">Brownfield vs Greenfield IIoT: Choosing the Right Path</h3>
+                    <p style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 1.5rem;">Most factories are brownfield. Learn how Petrus connects legacy PLCs, CNC machines, and manual lines without ripping & replacing.</p>
+                    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">Architecture</span>
+                        <span class="tag" style="background: rgba(255,255,255,0.08);">Integration</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interactive Tools & Calculators (moved to bottom) -->
+        <section style="margin-top: 6rem;">
+            <div class="badge glass-badge" style="margin-bottom: 2rem; display: inline-block;"><span>Interactive Tools</span></div>
+            <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem;">
+                <div>
+                    <h2 style="font-size: 2.5rem; margin-bottom: 0.5rem;">See Your ROI Instantly</h2>
+                    <p style="color: var(--text-muted);">Compute OEE improvements, downtime loss, energy savings, and cost of poor quality with live data.</p>
+                </div>
+                <button class="btn-primary" style="padding: 0.7rem 1.5rem; font-size: 0.9rem;" onclick="window.location.href='calculators.html'">View All 396 Calculators →</button>
+            </div>
+            <!-- Featured Calculator Cards rendered by app.js (limited to 6) -->
+            <div class="calculators-grid" id="home-calc-grid"></div>
+        </section>
+
+        <!-- Final Dual CTA -->
+        <section style="margin-top: 6rem; margin-bottom: 5rem;">
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;" class="cta-grid">
+                <div class="glass-panel" style="padding: 4rem 3rem; text-align: center; background: linear-gradient(135deg, rgba(139,49,255,0.2), rgba(124,58,237,0.1)); border: 1px solid rgba(139,49,255,0.4);">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto 1.5rem auto; display: block;"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                    <h2 style="font-size: 2rem; margin-bottom: 1rem;">Book a Demo</h2>
+                    <p style="color: var(--text-muted); margin-bottom: 2rem; line-height: 1.7;">Schedule a 30-minute live walkthrough of the platform tailored to your specific factory use case and industry.</p>
+                    <button class="btn-primary" onclick="openContactModal()" style="font-size: 1.1rem; padding: 1rem 2.5rem;">Book Demo Now</button>
+                </div>
+                <div class="glass-panel" style="padding: 4rem 3rem; text-align: center; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.1);">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin: 0 auto 1.5rem auto; display: block;"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.48 2 2 0 0 1 3.59 1h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.46a16 16 0 0 0 5.55 5.55l.92-.92a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 21 16.92z"></path></svg>
+                    <h2 style="font-size: 2rem; margin-bottom: 1rem;">Contact Us</h2>
+                    <p style="color: var(--text-muted); margin-bottom: 2rem; line-height: 1.7;">Have a specific question or a complex project in mind? Reach our experts directly for a consultation on your digital transformation journey.</p>
+                    <button class="btn-secondary" onclick="openContactModal()" style="font-size: 1.1rem; padding: 1rem 2.5rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); cursor: pointer; border-radius: 12px; color: white; font-family: var(--font-heading);">Contact Us →</button>
+                </div>
+            </div>
+        </section>
+
+    </main>
+    <!-- Chart.js (needed for homepage calculator preview) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        // Render only the first 6 calculators on the homepage
+        document.addEventListener('DOMContentLoaded', () => {
+            const allKeys = Object.keys({ ...calculatorsData, ...generatedCalculators }).slice(0, 6);
+            const grid = document.getElementById('home-calc-grid');
+            if (!grid) return;
+            allKeys.forEach(id => {
+                const calc = calculatorsData[id] || generatedCalculators[id];
+                if (!calc) return;
+                const card = document.createElement('div');
+                card.className = 'calc-card glass-panel';
+                card.style.cursor = 'pointer';
+                card.onclick = () => openCalculator(id);
+                card.innerHTML = `
+                    <div class="card-icon" style="color: var(--primary-purple); font-size: 2rem;">${calc.icon || '📊'}</div>
+                    <h3>${calc.title}</h3>
+                    <p style="color: var(--text-muted); font-size: 0.9rem;">${calc.description}</p>
+                    <span class="tag" style="background: rgba(139,49,255,0.2); border: 1px solid var(--primary-purple);">${calc.product || calc.category}</span>
+                `;
+                grid.appendChild(card);
+            });
+        });
+    </script>
+    <script>
+        // Vertical wheel → horizontal scroll for the module strip
+        (function() {
+            const strip = document.querySelector('.horizontal-scroll');
+            if (!strip) return;
+            strip.addEventListener('wheel', function(e) {
+                // Only intercept vertical scrolling
+                if (Math.abs(e.deltaX) < Math.abs(e.deltaY)) {
+                    e.preventDefault();
+                    strip.scrollLeft += e.deltaY * 1.5;
+                }
+            }, { passive: false });
+        })();
+    </script>
+    <!-- Calculator Modal -->
+    <div class="modal-overlay" id="calc-modal">
+        <div class="modal-content glass-panel popup-anim">
+            <button class="close-btn" onclick="closeCalculator()">&times;</button>
+            <div class="modal-header">
+                <span class="badge" id="modal-category" style="margin-bottom: 1rem;">Category</span>
+                <h2 id="modal-title">Calculator Title</h2>
+            </div>
+            <div class="modal-split">
+                <div>
+                    <p id="modal-desc" class="calc-description">Description goes here.</p>
+                    <div class="inputs-grid" id="modal-inputs"></div>
+                </div>
+                <div class="calc-results-section">
+                    <div class="chart-container glass-panel-inner" id="result-container">
+                        <canvas id="result-chart"></canvas>
+                        <div style="position: absolute; text-align: center; pointer-events: none;">
+                            <div style="font-size: 0.9rem; color: var(--text-muted);">Result</div>
+                            <div class="result-value text-gradient" id="result-value">--</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <h4>Explore Related Calculators</h4>
+                <div class="related-pills" id="modal-related"></div>
+            </div>
+        </div>
+    </div>
+    <script src="js/components.js"></script>
+</body>
+</html>
+

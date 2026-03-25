@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies – Control Tower Dashboard</title>
+    <meta name="description" content="One unified view of your entire factory. Live OEE, production, quality, energy and maintenance KPIs — across all lines, all shifts, all plants.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height:45vh; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; }
+        .hero h1 { font-size:3.5rem; max-width:900px; margin-bottom:1rem; }
+        .hero p { font-size:1.2rem; color:var(--text-muted); max-width:700px; margin-bottom:2rem; }
+        .stat { font-size:2.5rem; font-weight:700; background:linear-gradient(135deg,#a755ff,#7c3aed); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; }
+        .step { display:flex; gap:1.5rem; align-items:flex-start; margin-bottom:2rem; }
+        .step-num { flex-shrink:0; width:40px; height:40px; border-radius:50%; background:var(--gradient-purple); display:flex; align-items:center; justify-content:center; font-weight:700; }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top:8rem;">
+
+        <!-- Hero -->
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom:2rem;"><span>Product Module — Control Tower</span></div>
+            <h1>Control Tower <span class="text-gradient">Dashboard</span></h1>
+            <p>One command centre for your entire factory — or your entire plant network. See OEE, production, quality, energy, and maintenance KPIs live, on one screen, for every line simultaneously.</p>
+            <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center;">
+                <button class="btn-primary" onclick="openContactModal()">Book a Demo</button>
+                <button class="btn-primary" style="background:rgba(255,255,255,0.08);" onclick="window.location.href='calculators.html'">Try ROI Calculator</button>
+            </div>
+        </section>
+
+        <!-- Stats -->
+        <section class="glass-panel" style="padding:3rem; text-align:center; margin:2rem 0 4rem 0; background:linear-gradient(135deg,rgba(139,49,255,0.08),rgba(124,58,237,0.04));">
+            <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:2rem;">
+                <div><div class="stat">1</div><p style="color:var(--text-muted); margin-top:.5rem;">Screen for All KPIs</p></div>
+                <div><div class="stat">∞</div><p style="color:var(--text-muted); margin-top:.5rem;">Plants &amp; Lines Supported</p></div>
+                <div><div class="stat">50%</div><p style="color:var(--text-muted); margin-top:.5rem;">Faster Response to Issues</p></div>
+                <div><div class="stat">0</div><p style="color:var(--text-muted); margin-top:.5rem;">Manual Report Consolidation</p></div>
+                <div><div class="stat">100%</div><p style="color:var(--text-muted); margin-top:.5rem;">Live Data, No Lag</p></div>
+            </div>
+        </section>
+
+        <!-- Overview -->
+        <section style="margin-bottom:5rem;">
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:start;" class="cta-grid">
+                <div>
+                    <div class="badge glass-badge" style="margin-bottom:1rem;"><span>Overview</span></div>
+                    <h2 style="font-size:2.2rem; margin-bottom:1.5rem;">What is the Control Tower Dashboard?</h2>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">The Petrus Control Tower is the single unified intelligence hub that aggregates live data from PMS, CMS, QMS, EMS, Traceability, and Assembly Tracking — presenting the entire factory's health on one configurable dashboard accessible from any screen, anywhere.</p>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">Whether you manage one factory floor or ten plants across different cities, the Control Tower provides a consistent, role-appropriate view of what's happening right now — no phone calls, no WhatsApp updates, no morning reports needed.</p>
+                    <p style="color:var(--text-muted); line-height:1.8;">Each role gets a tailored control tower view — Plant Head sees OEE and downtime; CXO sees multi-plant performance; Maintenance sees machine health; Quality Head sees rejection trends — all live, all from one platform.</p>
+                </div>
+                <div class="glass-panel" style="padding:2.5rem;">
+                    <h3 style="margin-bottom:1.5rem;">Control Tower aggregates:</h3>
+                    <ul style="list-style:none; color:var(--text-muted); line-height:2.2;">
+                        <li>✓ Real-time OEE across all lines and plants</li>
+                        <li>✓ Production vs. plan — shift and daily</li>
+                        <li>✓ Machine health &amp; maintenance alerts</li>
+                        <li>✓ Quality rejection trends and FPY</li>
+                        <li>✓ Energy consumption and peak demand</li>
+                        <li>✓ Assembly WIP and Andon status</li>
+                        <li>✓ Exception escalation and response times</li>
+                        <li>✓ Multi-plant comparison dashboards</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Features -->
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:3rem; text-align:center;">Core Features</h2>
+            <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:2rem;">
+                <div class="calc-card glass-panel" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Plant-Wide Live Dashboard</h3>
+                    <p style="color:var(--text-muted);">Single screen with live OEE, production count, downtime status, and quality rate for every line on the floor. Wall-mounted TV displays or desktop — configurable layout.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Multi-Plant Comparison</h3>
+                    <p style="color:var(--text-muted);">Compare OEE, throughput, rejection rates, and energy across plants in real time. Spot which plant is underperforming and drill into root causes immediately.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Exception &amp; Alert Management</h3>
+                    <p style="color:var(--text-muted);">All critical alerts from all modules flow into one exception feed. Prioritised by severity. Response time SLAs tracked. Auto-escalation if unresolved.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Role-Based Views</h3>
+                    <p style="color:var(--text-muted);">Each role sees a curated view: Plant Head sees OEE; Maintenance sees machine health; CXO sees multi-plant financials; Quality Head sees reject trends. All live.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Automated KPI Reports</h3>
+                    <p style="color:var(--text-muted);">Daily, weekly, and monthly performance reports are generated and emailed automatically. No analyst needed to produce the Monday morning report.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Custom KPI Builder</h3>
+                    <p style="color:var(--text-muted);">Build custom KPIs from raw data using the formula builder. Visualise as gauges, trend charts, or heatmaps. Embed in any view in minutes.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- How It Works -->
+        <section class="glass-panel" style="padding:3rem; margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:2rem; text-align:center;">How the Control Tower Works</h2>
+            <div style="max-width:700px; margin:0 auto;">
+                <div class="step"><div class="step-num">1</div><div><strong>Data Aggregation</strong> — All modules (PMS, CMS, QMS, EMS, AT) feed data into the unified Petrus data lake in real time via the Edge Gateway.</div></div>
+                <div class="step"><div class="step-num">2</div><div><strong>KPI Computation</strong> — Pre-built and custom KPIs are calculated on live data streams — OEE, MTBF, FPY, energy per unit, response time — every 15 seconds.</div></div>
+                <div class="step"><div class="step-num">3</div><div><strong>Role-Specific Display</strong> — Each user role is assigned a dashboard template. Login determines which KPIs, drilldowns, and alert feeds are shown.</div></div>
+                <div class="step"><div class="step-num">4</div><div><strong>Exception Feed</strong> — Every alert from every module surfaces in the Control Tower timeline. Owners are assigned. Resolution is tracked and closed digitally.</div></div>
+                <div class="step"><div class="step-num">5</div><div><strong>Automated Reports</strong> — Daily and weekly reports are auto-generated and distributed to configured recipients — no analyst dependency, no delay.</div></div>
+            </div>
+        </section>
+
+        <!-- Calculators -->
+        <section style="margin-bottom:5rem;">
+            <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:2rem; flex-wrap:wrap; gap:1rem;">
+                <div><h2 style="font-size:2rem; margin-bottom:.5rem;">Relevant Calculators</h2><p style="color:var(--text-muted);">Measure the impact of better visibility across your plant network.</p></div>
+                <button class="btn-primary" style="padding:.6rem 1.5rem; font-size:.9rem;" onclick="window.location.href='calculators.html'">View All Calculators</button>
+            </div>
+            <input type="hidden" id="product-filter" value="Control Tower">
+            <div class="calculators-grid" id="main-grid"></div>
+        </section>
+
+        <!-- Personas for CT -->
+        <section class="glass-panel" style="padding:3rem; margin-bottom:5rem;">
+            <h2 style="font-size:2rem; margin-bottom:2rem; text-align:center;">Who Uses the Control Tower?</h2>
+            <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1.5rem; text-align:center;">
+                <div><a href="plant-head.html" style="text-decoration:none; color:inherit;"><div class="glass-panel" style="padding:1.5rem; cursor:pointer;"><div style="font-size:2rem; margin-bottom:.5rem;">🏭</div><strong>Plant Head</strong><p style="color:var(--text-muted); font-size:.9rem; margin-top:.5rem;">Full floor OEE, shift summary</p></div></a></div>
+                <div><a href="operations-manager.html" style="text-decoration:none; color:inherit;"><div class="glass-panel" style="padding:1.5rem; cursor:pointer;"><div style="font-size:2rem; margin-bottom:.5rem;">⚙️</div><strong>Operations Manager</strong><p style="color:var(--text-muted); font-size:.9rem; margin-top:.5rem;">Production vs. plan, WIP</p></div></a></div>
+                <div><a href="maintenance-manager.html" style="text-decoration:none; color:inherit;"><div class="glass-panel" style="padding:1.5rem; cursor:pointer;"><div style="font-size:2rem; margin-bottom:.5rem;">🔧</div><strong>Maintenance Manager</strong><p style="color:var(--text-muted); font-size:.9rem; margin-top:.5rem;">Machine health, MTBF</p></div></a></div>
+                <div><a href="quality-head.html" style="text-decoration:none; color:inherit;"><div class="glass-panel" style="padding:1.5rem; cursor:pointer;"><div style="font-size:2rem; margin-bottom:.5rem;">✅</div><strong>Quality Head</strong><p style="color:var(--text-muted); font-size:.9rem; margin-top:.5rem;">Rejection trends, FPY</p></div></a></div>
+                <div><a href="cio-cto.html" style="text-decoration:none; color:inherit;"><div class="glass-panel" style="padding:1.5rem; cursor:pointer;"><div style="font-size:2rem; margin-bottom:.5rem;">💻</div><strong>CIO / CTO</strong><p style="color:var(--text-muted); font-size:.9rem; margin-top:.5rem;">Multi-plant, integrations</p></div></a></div>
+            </div>
+        </section>
+
+        <!-- CTA -->
+        <section style="display:grid; grid-template-columns:1fr 1fr; gap:2rem; margin-bottom:5rem;" class="cta-grid">
+            <div class="glass-panel" style="padding:3rem; text-align:center; border:1px solid rgba(139,49,255,0.4); background:rgba(139,49,255,0.05);">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">See Your Factory on One Screen</h2>
+                <p style="color:var(--text-muted); margin-bottom:2rem;">Book a live Control Tower demo configured for your plant layout and KPI requirements.</p>
+                <button class="btn-primary" onclick="openContactModal()">Book Demo</button>
+            </div>
+            <div class="glass-panel" style="padding:3rem; text-align:center;">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">Explore All Modules</h2>
+                <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-top:1rem;">
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='pms.html'">PMS</button>
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='cms.html'">CMS</button>
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='qms.html'">QMS</button>
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='ems.html'">EMS</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal-overlay" id="calc-modal">
+        <div class="modal-content glass-panel popup-anim">
+            <button class="close-btn" onclick="closeCalculator()">&times;</button>
+            <div class="modal-header"><span class="badge" id="modal-category" style="margin-bottom:1rem;">Category</span><h2 id="modal-title"></h2></div>
+            <div class="modal-split">
+                <div><p id="modal-desc" class="calc-description"></p><div class="inputs-grid" id="modal-inputs"></div></div>
+                <div class="calc-results-section"><div class="chart-container glass-panel-inner" id="result-container"><canvas id="result-chart"></canvas><div style="position:absolute;text-align:center;pointer-events:none;"><div style="font-size:.9rem;color:var(--text-muted);">Result</div><div class="result-value text-gradient" id="result-value">--</div></div></div></div>
+            </div>
+            <div class="modal-footer"><h4>Related Calculators</h4><div class="related-pills" id="modal-related"></div></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/components.js"></script>
+</body>
+</html>

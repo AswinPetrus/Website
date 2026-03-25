@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies – Production Monitoring System (PMS)</title>
+    <meta name="description" content="Real-time production monitoring — OEE, shift performance, downtime tracking, and throughput analytics for every machine on your factory floor.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height: 45vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+        .hero h1 { font-size: 3.5rem; max-width: 900px; margin-bottom: 1rem; }
+        .hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 700px; margin-bottom: 2rem; }
+        .stat { font-size: 2.5rem; font-weight: 700; background: linear-gradient(135deg,#a755ff,#7c3aed); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+        .feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 2rem; }
+        .step { display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem; }
+        .step-num { flex-shrink: 0; width: 40px; height: 40px; border-radius: 50%; background: var(--gradient-purple); display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1rem; }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top: 8rem;">
+
+        <!-- Hero -->
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom: 2rem;"><span>Product Module — PMS</span></div>
+            <h1>Production Monitoring <span class="text-gradient">System</span></h1>
+            <p>Real-time visibility into every machine, line, and shift. Track OEE, output, downtime, and throughput — live, automatically, without any manual data entry.</p>
+            <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center;">
+                <button class="btn-primary" onclick="openContactModal()">Book a Demo</button>
+                <button class="btn-primary" style="background:rgba(255,255,255,0.08);" onclick="window.location.href='calculators.html'">Try OEE Calculator</button>
+            </div>
+        </section>
+
+        <!-- Key Stats -->
+        <section class="glass-panel" style="padding:3rem; text-align:center; margin:2rem 0 4rem 0; background:linear-gradient(135deg,rgba(139,49,255,0.08),rgba(124,58,237,0.04));">
+            <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:2rem;">
+                <div><div class="stat">30%</div><p style="color:var(--text-muted); margin-top:.5rem;">Higher OEE</p></div>
+                <div><div class="stat">40%</div><p style="color:var(--text-muted); margin-top:.5rem;">Less Downtime</p></div>
+                <div><div class="stat">28%</div><p style="color:var(--text-muted); margin-top:.5rem;">Output Increase</p></div>
+                <div><div class="stat">2×</div><p style="color:var(--text-muted); margin-top:.5rem;">Faster Shift Reviews</p></div>
+                <div><div class="stat">0</div><p style="color:var(--text-muted); margin-top:.5rem;">Manual Data Entry</p></div>
+            </div>
+        </section>
+
+        <!-- What is PMS -->
+        <section style="margin-bottom:5rem;">
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:center;" class="cta-grid">
+                <div>
+                    <div class="badge glass-badge" style="margin-bottom:1rem;"><span>Overview</span></div>
+                    <h2 style="font-size:2.2rem; margin-bottom:1.5rem;">What is the Production Monitoring System?</h2>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">The Petrus PMS automatically connects to your machines — PLCs, CNCs, conveyors, manual stations — via hardware sensors or protocol integrations, and streams every pulse, count, and stop event into a live dashboard.</p>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">No operator data entry. No Excel reports. No blind spots. Just real-time factory intelligence visible from any device — whether you're on the floor or in a board meeting.</p>
+                    <p style="color:var(--text-muted); line-height:1.8;">It replaces daily production reports, whiteboard tracking, and gut-feel decisions with live machine data classified automatically into Availability, Performance, and Quality — the three pillars of OEE.</p>
+                </div>
+                <div class="glass-panel" style="padding:2.5rem;">
+                    <h3 style="margin-bottom:1.5rem;">PMS connects to:</h3>
+                    <ul style="list-style:none; color:var(--text-muted); line-height:2.2;">
+                        <li>✓ CNC machines (Fanuc, Siemens, Allen Bradley)</li>
+                        <li>✓ PLCs (Siemens S7, Allen Bradley, Schneider)</li>
+                        <li>✓ Conveyors and packaging lines</li>
+                        <li>✓ Manual stations (operator touch panels)</li>
+                        <li>✓ Legacy machines (pulse/counter sensors)</li>
+                        <li>✓ Injection moulding machines</li>
+                        <li>✓ Spinning, weaving and textile machines</li>
+                        <li>✓ Forging presses and stamping machines</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Core Features -->
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:3rem; text-align:center;">Core Features</h2>
+            <div class="feature-grid">
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Live OEE Dashboard</h3>
+                    <p style="color:var(--text-muted);">Real-time OEE per machine, line, and plant. Drill down into Availability, Performance, and Quality components instantly.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Shift & Daily Reports</h3>
+                    <p style="color:var(--text-muted);">Auto-generated shift summary — planned vs. actual output, top downtime codes, per-machine performance ranking.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Downtime Categorisation</h3>
+                    <p style="color:var(--text-muted);">Every stoppage is auto-tagged: breakdown, planned maintenance, material shortage, changeover, operator absence. Pareto analysis built in.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Production vs. Plan Tracking</h3>
+                    <p style="color:var(--text-muted);">Compare actual output against shift target at every moment. Visual traffic-light indicators flag underperforming lines instantly.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Bottleneck Identification</h3>
+                    <p style="color:var(--text-muted);">Automatically identifies the slowest station in each production line that is limiting overall throughput. Prioritise interventions smartly.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Operator-Level Accountability</h3>
+                    <p style="color:var(--text-muted);">Assign operators to machines per shift. Compare operator-wise output, speed, and rejection rate. Identify training needs objectively.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Digital Andon & Escalation</h3>
+                    <p style="color:var(--text-muted);">Auto-Andon when a machine stops. Escalation timers alert supervisors, maintenance teams, and managers if issues are not resolved within SLA time.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Energy Per Unit Integration</h3>
+                    <p style="color:var(--text-muted);">When combined with EMS, view energy cost per unit produced per machine. Identify the most energy-wasteful processes instantly.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- How It Works -->
+        <section class="glass-panel" style="padding:3rem; margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:2rem; text-align:center;">How It Works</h2>
+            <div style="max-width:700px; margin:0 auto;">
+                <div class="step"><div class="step-num">1</div><div><strong>Connect</strong> — Hardware sensors or protocol adapters are installed on your machines (typically in 1–3 days per line). No machine modification needed.</div></div>
+                <div class="step"><div class="step-num">2</div><div><strong>Stream</strong> — Every machine cycle, production count, and stop event is streamed in real time to the Petrus Edge Device and then to the cloud/on-premise server.</div></div>
+                <div class="step"><div class="step-num">3</div><div><strong>Classify</strong> — The AI engine automatically classifies stoppages, computes OEE components, and compares actuals vs. plan targets without human intervention.</div></div>
+                <div class="step"><div class="step-num">4</div><div><strong>Visualise</strong> — Live dashboards, shift reports, trend graphs, and Pareto charts are available on any browser — TV screens on the floor, tablets for supervisors, or desktops for managers.</div></div>
+                <div class="step"><div class="step-num">5</div><div><strong>Alert</strong> — When something goes wrong, the right person is notified immediately — via app, SMS, or WhatsApp — with full context and escalation if unresolved.</div></div>
+            </div>
+        </section>
+
+        <!-- Industries -->
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:2rem; text-align:center;">Industries Using PMS</h2>
+            <div style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
+                <span class="industry-tag">Automotive</span>
+                <span class="industry-tag">Textile</span>
+                <span class="industry-tag">FMCG</span>
+                <span class="industry-tag">Electronics</span>
+                <span class="industry-tag">Pharma</span>
+                <span class="industry-tag">Heavy Engineering</span>
+                <span class="industry-tag">Plastics</span>
+                <span class="industry-tag">Consumer Durables</span>
+            </div>
+        </section>
+
+        <!-- Calculators -->
+        <section style="margin-bottom:5rem;">
+            <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:2rem; flex-wrap:wrap; gap:1rem;">
+                <div>
+                    <h2 style="font-size:2rem; margin-bottom:.5rem;">Relevant Calculators</h2>
+                    <p style="color:var(--text-muted);">See the ROI of PMS instantly with live data.</p>
+                </div>
+                <button class="btn-primary" style="padding:.6rem 1.5rem; font-size:.9rem;" onclick="window.location.href='calculators.html'">View All Calculators</button>
+            </div>
+            <input type="hidden" id="product-filter" value="Production Monitoring System">
+            <div class="calculators-grid" id="main-grid"></div>
+        </section>
+
+        <!-- Related Modules -->
+        <section class="glass-panel" style="padding:3rem; margin-bottom:5rem;">
+            <h2 style="font-size:2rem; margin-bottom:1.5rem; text-align:center;">Often Used With PMS</h2>
+            <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center;">
+                <button class="btn-primary" style="padding:.7rem 1.5rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='qms.html'">Quality Management</button>
+                <button class="btn-primary" style="padding:.7rem 1.5rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='cms.html'">Condition Monitoring</button>
+                <button class="btn-primary" style="padding:.7rem 1.5rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='ems.html'">Energy Monitoring</button>
+                <button class="btn-primary" style="padding:.7rem 1.5rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='control-tower.html'">Control Tower</button>
+            </div>
+        </section>
+
+        <!-- CTA -->
+        <section style="display:grid; grid-template-columns:1fr 1fr; gap:2rem; margin-bottom:5rem;" class="cta-grid">
+            <div class="glass-panel" style="padding:3rem; text-align:center; border:1px solid rgba(139,49,255,0.4); background:rgba(139,49,255,0.05);">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">Book a Live PMS Demo</h2>
+                <p style="color:var(--text-muted); margin-bottom:2rem;">See live OEE dashboards running on your machine types in a 30-minute factory-specific walkthrough.</p>
+                <button class="btn-primary" onclick="openContactModal()">Book Demo</button>
+            </div>
+            <div class="glass-panel" style="padding:3rem; text-align:center;">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">Start with a Free ROI Assessment</h2>
+                <p style="color:var(--text-muted); margin-bottom:2rem;">Use our calculators to estimate the annual savings from PMS before signing anything.</p>
+                <button class="btn-primary" style="background:rgba(255,255,255,0.08);" onclick="window.location.href='calculators.html'">Try Now</button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Calculator Modal -->
+    <div class="modal-overlay" id="calc-modal">
+        <div class="modal-content glass-panel popup-anim">
+            <button class="close-btn" onclick="closeCalculator()">&times;</button>
+            <div class="modal-header"><span class="badge" id="modal-category" style="margin-bottom:1rem;">Category</span><h2 id="modal-title"></h2></div>
+            <div class="modal-split">
+                <div><p id="modal-desc" class="calc-description"></p><div class="inputs-grid" id="modal-inputs"></div></div>
+                <div class="calc-results-section"><div class="chart-container glass-panel-inner" id="result-container"><canvas id="result-chart"></canvas><div style="position:absolute;text-align:center;pointer-events:none;"><div style="font-size:.9rem;color:var(--text-muted);">Result</div><div class="result-value text-gradient" id="result-value">--</div></div></div></div>
+            </div>
+            <div class="modal-footer"><h4>Explore Related Calculators</h4><div class="related-pills" id="modal-related"></div></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/components.js"></script>
+</body>
+</html>

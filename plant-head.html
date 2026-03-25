@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies – Plant Head</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height: 40vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+        .hero h1 { font-size: 3.5rem; max-width: 900px; margin-bottom: 1rem; }
+        .hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 700px; margin-bottom: 2rem; }
+        .stat { font-size: 2.5rem; font-weight: 700; background: linear-gradient(135deg,#a755ff,#7c3aed); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top: 8rem;">
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom: 2rem;"><span>Persona Guide</span></div>
+            <h1>For the <span class="text-gradient">Plant Head</span></h1>
+            <p>Complete factory visibility — shift-wise, machine-wise, line-wise — all in one command centre.</p>
+        </section>
+
+        <!-- What a Plant Head Needs -->
+        <section style="margin-bottom: 4rem;">
+            <div class="features-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 2rem; margin-top:0;">
+                <div class="calc-card glass-panel" style="padding:2.5rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Real-Time Production Overview</h3>
+                    <p style="color:var(--text-muted);">View live OEE, output, and downtime across all lines from a single dashboard — no floor walk required.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2.5rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Shift & Daily KPI Reports</h3>
+                    <p style="color:var(--text-muted);">Auto-generated shift summary reports — production achieved vs. target, downtime reasons, top loss codes.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2.5rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Downtime & Stoppage Alerts</h3>
+                    <p style="color:var(--text-muted);">Instant Andon alerts when a machine stops. Escalation timers notify you when unresolved beyond SLA.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2.5rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Line-Wise Profitability</h3>
+                    <p style="color:var(--text-muted);">Track cost-per-unit by line. Identify which lines are underperforming and why, in minutes not days.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2.5rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Quality Rejection Trends</h3>
+                    <p style="color:var(--text-muted);">Monitor FPY, rejection %, and rework costs across shifts. Drill into defect root causes with Pareto analysis.</p>
+                </div>
+                <div class="calc-card glass-panel" style="padding:2.5rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Energy Consumption View</h3>
+                    <p style="color:var(--text-muted);">See energy consumption per shift, per line, per machine. Instantly spot idle-running machines consuming power.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Key Metrics -->
+        <section class="glass-panel" style="padding:3rem; margin-bottom:4rem; text-align:center;">
+            <h2 style="font-size:2rem; margin-bottom:2rem;">What Plant Heads Achieve with Petrus IIoT</h2>
+            <div style="display:grid; grid-template-columns: repeat(auto-fit,minmax(160px,1fr)); gap:2rem;">
+                <div><div class="stat">30%</div><p style="color:var(--text-muted); margin-top:.5rem;">Higher OEE</p></div>
+                <div><div class="stat">40%</div><p style="color:var(--text-muted); margin-top:.5rem;">Less Unplanned Downtime</p></div>
+                <div><div class="stat">2×</div><p style="color:var(--text-muted); margin-top:.5rem;">Faster Daily Reviews</p></div>
+                <div><div class="stat">25%</div><p style="color:var(--text-muted); margin-top:.5rem;">Energy Savings</p></div>
+            </div>
+        </section>
+
+        <!-- Recommended Modules -->
+        <section style="margin-bottom:4rem;">
+            <h2 style="font-size:2rem; margin-bottom:1.5rem;">Recommended Modules for Plant Head</h2>
+            <div style="display:flex; gap:1rem; flex-wrap:wrap;">
+                <button class="btn-primary" style="padding:.6rem 1.3rem; font-size:.9rem;" onclick="window.location.href='pms.html'">Production Monitoring System</button>
+                <button class="btn-primary" style="padding:.6rem 1.3rem; font-size:.9rem; background:rgba(255,255,255,0.08);" onclick="window.location.href='control-tower.html'">Control Tower Dashboard</button>
+                <button class="btn-primary" style="padding:.6rem 1.3rem; font-size:.9rem; background:rgba(255,255,255,0.08);" onclick="window.location.href='ems.html'">Energy Monitoring</button>
+                <button class="btn-primary" style="padding:.6rem 1.3rem; font-size:.9rem; background:rgba(255,255,255,0.08);" onclick="window.location.href='qms.html'">Quality Management</button>
+            </div>
+        </section>
+
+        <!-- Relevant Calculators -->
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2rem; margin-bottom:2rem;">Relevant Calculators for Plant Head</h2>
+            <input type="hidden" id="persona-filter" value="Plant">
+            <div class="calculators-grid" id="main-grid"></div>
+        </section>
+
+        <!-- CTA -->
+        <section class="glass-panel" style="padding:3rem; text-align:center; margin-bottom:5rem; border:1px solid rgba(139,49,255,0.3); background:rgba(139,49,255,0.05);">
+            <h2 style="font-size:2rem; margin-bottom:1rem;">Ready to Run Your Plant Smarter?</h2>
+            <p style="color:var(--text-muted); margin-bottom:2rem;">Book a live walkthrough customised for Plant Heads to see how IIoT transforms your daily operations.</p>
+            <button class="btn-primary" onclick="openContactModal()">Book a Demo</button>
+        </section>
+    </main>
+
+    <div class="modal-overlay" id="calc-modal">
+        <div class="modal-content glass-panel popup-anim">
+            <button class="close-btn" onclick="closeCalculator()">&times;</button>
+            <div class="modal-header">
+                <span class="badge" id="modal-category" style="margin-bottom:1rem;">Category</span>
+                <h2 id="modal-title">Calculator Title</h2>
+            </div>
+            <div class="modal-split">
+                <div>
+                    <p id="modal-desc" class="calc-description"></p>
+                    <div class="inputs-grid" id="modal-inputs"></div>
+                </div>
+                <div class="calc-results-section">
+                    <div class="chart-container glass-panel-inner" id="result-container">
+                        <canvas id="result-chart"></canvas>
+                        <div style="position:absolute;text-align:center;pointer-events:none;">
+                            <div style="font-size:.9rem;color:var(--text-muted);">Result</div>
+                            <div class="result-value text-gradient" id="result-value">--</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <h4>Related Calculators</h4>
+                <div class="related-pills" id="modal-related"></div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/components.js"></script>
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petrus Technologies – Quality Management System (QMS)</title>
+    <meta name="description" content="Digital quality gates, defect tracking, SPC, NCR management, and full audit traceability — paperless quality that actually works.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        .hero { min-height: 45vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+        .hero h1 { font-size: 3.5rem; max-width: 900px; margin-bottom: 1rem; }
+        .hero p { font-size: 1.2rem; color: var(--text-muted); max-width: 700px; margin-bottom: 2rem; }
+        .stat { font-size: 2.5rem; font-weight: 700; background: linear-gradient(135deg,#a755ff,#7c3aed); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+        .feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px,1fr)); gap: 2rem; }
+        .step { display: flex; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem; }
+        .step-num { flex-shrink: 0; width: 40px; height: 40px; border-radius: 50%; background: var(--gradient-purple); display: flex; align-items: center; justify-content: center; font-weight: 700; }
+    </style>
+</head>
+<body>
+    <main class="container" style="padding-top: 8rem;">
+        <section class="hero">
+            <div class="badge glass-badge" style="margin-bottom:2rem;"><span>Product Module — QMS</span></div>
+            <h1>Quality Management <span class="text-gradient">System</span></h1>
+            <p>Eliminate paper quality sheets. Enforce in-process inspections digitally, track defects by type and operator, perform SPC analysis in real time, and be audit-ready every day.</p>
+            <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center;">
+                <button class="btn-primary" onclick="openContactModal()">Book a Demo</button>
+                <button class="btn-primary" style="background:rgba(255,255,255,0.08);" onclick="window.location.href='calculators.html'">Try COPQ Calculator</button>
+            </div>
+        </section>
+
+        <section class="glass-panel" style="padding:3rem; text-align:center; margin:2rem 0 4rem 0; background:linear-gradient(135deg,rgba(139,49,255,0.08),rgba(124,58,237,0.04));">
+            <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:2rem;">
+                <div><div class="stat">35%</div><p style="color:var(--text-muted); margin-top:.5rem;">Rejection Reduction</p></div>
+                <div><div class="stat">20%</div><p style="color:var(--text-muted); margin-top:.5rem;">Less Rework Cost</p></div>
+                <div><div class="stat">80%</div><p style="color:var(--text-muted); margin-top:.5rem;">Faster Root Cause</p></div>
+                <div><div class="stat">100%</div><p style="color:var(--text-muted); margin-top:.5rem;">Digital Audit Trail</p></div>
+                <div><div class="stat">0</div><p style="color:var(--text-muted); margin-top:.5rem;">Paper Check Sheets</p></div>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:center;" class="cta-grid">
+                <div>
+                    <div class="badge glass-badge" style="margin-bottom:1rem;"><span>Overview</span></div>
+                    <h2 style="font-size:2.2rem; margin-bottom:1.5rem;">What is the Quality Management System?</h2>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">The Petrus QMS replaces physical inspection sheets, paper NCRs, and Excel-based defect logs with a fully digital, real-time quality control platform that operates at every production stage.</p>
+                    <p style="color:var(--text-muted); line-height:1.8; margin-bottom:1rem;">Inspectors use tablets or touch panels to log inspection results directly at the machine. Every defect is classified, photographed, and linked to the machine, operator, batch, and shift — creating an immutable audit trail.</p>
+                    <p style="color:var(--text-muted); line-height:1.8;">Statistical Process Control (SPC) charts monitor critical dimensions against control limits in real time. When a process drifts, the system alerts quality engineers immediately — before a full batch goes out of spec.</p>
+                </div>
+                <div class="glass-panel" style="padding:2.5rem;">
+                    <h3 style="margin-bottom:1.5rem;">QMS covers:</h3>
+                    <ul style="list-style:none; color:var(--text-muted); line-height:2.2;">
+                        <li>✓ Incoming material inspection</li>
+                        <li>✓ In-process quality checks (WIP gates)</li>
+                        <li>✓ Final inspection &amp; release</li>
+                        <li>✓ SPC for critical parameters</li>
+                        <li>✓ Non-Conformance Reports (NCR)</li>
+                        <li>✓ CAPA management &amp; closure</li>
+                        <li>✓ Gauge calibration tracking</li>
+                        <li>✓ Customer complaint management</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:3rem; text-align:center;">Core Features</h2>
+            <div class="feature-grid">
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Digital Inspection Gates</h3>
+                    <p style="color:var(--text-muted);">Mandatory digital checkpoints at receiving, in-process, and final stages. Parts cannot advance without quality sign-off. Fully configurable pass/fail criteria.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Defect Pareto Analysis</h3>
+                    <p style="color:var(--text-muted);">Auto-ranked Pareto charts showing top defect types by frequency, cost, machine, and operator. Instantly identify where to focus improvement efforts.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Real-Time SPC Charts</h3>
+                    <p style="color:var(--text-muted);">X-bar, R-chart, Cp, Cpk displayed live for key dimensions. Automatic out-of-control signals and actionable alerts when process capability degrades.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+                    <h3 style="margin-bottom:.5rem;">NCR & CAPA Management</h3>
+                    <p style="color:var(--text-muted);">Log Non-Conformances digitally with photos and measurements. Assign CAPAs with owners and deadlines. Track closure rates and recurrence reduction.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Audit-Ready Digital Records</h3>
+                    <p style="color:var(--text-muted);">Every inspection result, sign-off, and NCR is timestamped and stored. Export audit packs in minutes instead of spending days searching paper records.</p>
+                </div>
+                <div class="calc-card glass-panel feature-card" style="padding:2rem;">
+                    <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#a755ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="margin-bottom:1rem;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+                    <h3 style="margin-bottom:.5rem;">Gauge Calibration Tracking</h3>
+                    <p style="color:var(--text-muted);">Manage calibration schedules for all measuring instruments. Auto-alerts before due dates. Calibration status visible on every inspection form.</p>
+                </div>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <h2 style="font-size:2.2rem; margin-bottom:2rem;">Industries Using QMS</h2>
+            <div style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
+                <span class="industry-tag">Automotive / OEM</span>
+                <span class="industry-tag">Pharma &amp; Life Sciences</span>
+                <span class="industry-tag">Electronics &amp; PCB</span>
+                <span class="industry-tag">Medical Devices</span>
+                <span class="industry-tag">Aerospace &amp; Defense</span>
+                <span class="industry-tag">Consumer Durables</span>
+            </div>
+        </section>
+
+        <section style="margin-bottom:5rem;">
+            <div style="display:flex; justify-content:space-between; align-items:flex-end; margin-bottom:2rem; flex-wrap:wrap; gap:1rem;">
+                <div>
+                    <h2 style="font-size:2rem; margin-bottom:.5rem;">Relevant Calculators</h2>
+                    <p style="color:var(--text-muted);">Quantify the cost of poor quality at your factory.</p>
+                </div>
+                <button class="btn-primary" style="padding:.6rem 1.5rem; font-size:.9rem;" onclick="window.location.href='calculators.html'">View All Calculators</button>
+            </div>
+            <input type="hidden" id="product-filter" value="Quality Management System">
+            <div class="calculators-grid" id="main-grid"></div>
+        </section>
+
+        <section style="display:grid; grid-template-columns:1fr 1fr; gap:2rem; margin-bottom:5rem;" class="cta-grid">
+            <div class="glass-panel" style="padding:3rem; text-align:center; border:1px solid rgba(139,49,255,0.4); background:rgba(139,49,255,0.05);">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">Go Paperless on Quality</h2>
+                <p style="color:var(--text-muted); margin-bottom:2rem;">Book a QMS demo to see how Petrus digitises your entire quality workflow end-to-end.</p>
+                <button class="btn-primary" onclick="openContactModal()">Book Demo</button>
+            </div>
+            <div class="glass-panel" style="padding:3rem; text-align:center;">
+                <h2 style="font-size:1.8rem; margin-bottom:1rem;">See Also</h2>
+                <div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-top:1rem;">
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='traceability.html'">Traceability</button>
+                    <button class="btn-primary" style="padding:.6rem 1.2rem; font-size:.9rem; background:rgba(255,255,255,0.06);" onclick="window.location.href='pms.html'">Production Monitoring</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="modal-overlay" id="calc-modal">
+        <div class="modal-content glass-panel popup-anim">
+            <button class="close-btn" onclick="closeCalculator()">&times;</button>
+            <div class="modal-header"><span class="badge" id="modal-category" style="margin-bottom:1rem;">Category</span><h2 id="modal-title"></h2></div>
+            <div class="modal-split">
+                <div><p id="modal-desc" class="calc-description"></p><div class="inputs-grid" id="modal-inputs"></div></div>
+                <div class="calc-results-section"><div class="chart-container glass-panel-inner" id="result-container"><canvas id="result-chart"></canvas><div style="position:absolute;text-align:center;pointer-events:none;"><div style="font-size:.9rem;color:var(--text-muted);">Result</div><div class="result-value text-gradient" id="result-value">--</div></div></div></div>
+            </div>
+            <div class="modal-footer"><h4>Explore Related Calculators</h4><div class="related-pills" id="modal-related"></div></div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/components.js"></script>
+</body>
+</html>

@@ -1,0 +1,135 @@
+IIOTHome
+HEROSECTION
+Transform  Your  Factory  with  Real-Time  Intelligence
+Production  • Quality  • Maintenance  • Energy  • Traceability  • Assembly  — all 
+unified  in  one  connected  IIoTplatform .
+Make  faster  decisions . Reduce  losses . Improve  performance  across  every  line .
+[Explore  Solutions ]
+New  to  IIoT? — Start  Here  →
+INDUSTRY-BASEDQUICKLINKS
+Built  for  Every  Manufacturing  Industry
+Choose  your  industry  to  explore  tailored  solutions .
+• Automotive  & Auto  Components  
+• FMCG & Food  Processing  
+• Pharma  & Lifesciences  
+• Textile  & Garments  
+• Electronics  & PCB  Manufacturing  
+• Plastics  & Injection  Molding  
+• Heavy  Engineering  / Forging  / Foundry  
+• Machine  Builders  (OEMs ) 
+• IndustrialFabrication  & MetalWorking  
+[Explore  Your  Industry ]
+----------------Page (0) Break----------------
+MANUFACTURING-TYPEQUICKLINKS
+Solutions  Designed  for  Every  Manufacturing  Process
+• Discrete  Manufacturing
+CNC, machine  shops , automotive  parts  
+• Process  Manufacturing
+Pharma , chemicals , food  production  
+• Batch  Manufacturing
+Consumer  goods , molding , rubber  
+• Assembly  Line  Manufacturing
+Automotive , electronics  
+• Utility - Driven  Operations
+Foundries , forging , plastics  
+[Find  Solutions  for  Your  Process ]
+WHATWEDO 
+Connected  Intelligence  Across  Your  Entire  Factory
+1. Production  Monitoring  System
+Gain  instant  visibility  into  output , downtime , and  utilization .
+Why : Stop  production  losses  caused  by  blind  spots .
+For : Plant  Heads  • Operations  Managers
+When : When  you  need  real-time  production  transparency .
+2. Condition  Monitoring  System
+----------------Page (1) Break----------------
+Monitor  machine  vibration , temperature , and  health  indicators .
+Why : Prevent  sudden  breakdowns  and  reduce  MTTR.
+For : Maintenance  • Reliability  Engineers
+When : High  downtime  or  unpredictable  failures .
+3. ControlTower
+One  unified  dashboard  for  complete  factory  oversight .
+Why : Break  departmentalsilos  and  manage  operations  centrally .
+For : CXOs  • Plant  Heads  • Ops  Leaders
+When : Multi-line  or  multi-plant  operations .
+4. Quality  Management  System
+Digitalquality  checks , defect  tracking , and  in -line  validation .
+Why : Reduce  rework  and  improve  first -pass  yield .
+For : Quality  Teams  • Operations
+When : Quality  variation  or  compliance  pressure  is  high .
+5. Traceability  System
+Track  every  component  from  raw  materialto  finished  product .
+Why : Faster  root -cause  analysis  and  zero -compromise  compliance .
+For : QA  • Compliance  • Ops
+When : For  recallmanagement  and  regulatory  industries .
+6. Energy  Monitoring  System
+Machine -wise  and  utility -wise  energy  intelligence  in  real-time .
+Why : Reduce  wastage  and  optimize  peak  loads .
+----------------Page (2) Break----------------
+For : ESGOfficers  • Plant  Heads
+When : Energy  cost  is  a  major  contributor  to  EBITDA .
+7. Assembly  Tracking  System
+DigitalSOPs , step  validations , Andon  alerts  & assembly  analytics .
+Why : Eliminate  operator  errors  and  streamline  assembly  lines .
+For : R&D • Production  • Quality
+When : Manualor  semi-automated  assembly  processes .
+8. IIoTPlatform  (Core )
+The  backbone  of  your  digitalfactory  — users , roles , assets , hierarchy , permissions , 
+APIs , notifications .
+Why : One  platform  to  unify  data  & scale  digitaltransformation .
+For : CIO • CTO • IT-OTTeams
+When : Implementing  plant -wide  or  multi-plant  digitalization .
+USER -PROBLEM → SOLUTION  MAPPING
+Solve  Your  Biggest  Manufacturing  Challenges
+• Machines  idle  without  insight ? → Production  Monitoring   
+• Unexpected  breakdowns ? → Condition  Monitoring   
+• Too  many  dashboards  & manualreports ? → ControlTower   
+• High  rejections ? → Quality  System   
+• Need  audit - ready  traceability ? → Traceability   
+• Energy  bills  unpredictable ? → Energy  Monitoring   
+• Assembly  errors  increasing ? → Assembly  Tracking   
+• Siloed , fragmented  data ? → IIoTPlatform   
+----------------Page (3) Break----------------
+[Find  the  Right  Solution ]
+INTERACTIVETOOLS  & CALCULATORS
+See  Your  ROIInstantly
+• OEEImprovement  Calculator  
+• Downtime  Loss  Calculator  
+• Energy  Savings  Estimator  
+• Traceability  Loss  Calculator  
+• Cost  of  Poor  Quality  Calculator  
+[Calculate  Your  Savings ]
+PERSONA -BASEDNAVIGATION
+Personalized  for  Every  Role  in  Manufacturing
+• Plant  Head  → Factory  Visibility  & KPIs   
+• Operations  Manager  → Production  & WIPTracking   
+• Maintenance  Manager  → Condition  Monitoring   
+• CIO / CTO → IIoTPlatform  & Architecture   
+• Quality  Head  → QMS  
+• ESGOfficer  → Energy  & Sustainability   
+• R&D / Engineering  Manager  → Assembly  & SOPDigitization   
+• PotentialPartners  → Reseller  & System  Integration   
+• New  to  IIoT → Beginner ’s  Guide   
+[Find  Solutions  for  Your  Role ]
+CASESTUDIES  & SUCCESS  METRICS
+----------------Page (4) Break----------------
+RealResults  from  RealManufacturing  Plants
+• 30% Higher  Equipment  Utilization  
+• 40% Reduction  in  Unplanned  Downtime  
+• 18–25% Energy  Savings  
+• 20–35% Reduction  in  Rejections  / Rework  
+• 12–16% OEEImprovement  
+• 80% Faster  Root  Cause  Analysis  
+[Explore  Success  Stories ]
+TRUSTEDBYLEADING 
+MANUFACTURERS
+Allen  Bradley , Fanuc , Simeans , etc
+TRUSTEDBYLEADINGPARTNERS
+LMWTMD, LMWMTD, LMWATC, LLS, Teal, Havells , TVS, Watetech , Kimbal
+Ready  to  Transform  Your  Factory ?
+Start  with  a  Free  DigitalMaturity  Assessment
+or
+Book  a  Live  Demo  of  the  Platform
+[Book  Demo ]
+[Talk  to  an  Expert ]
+[Download  Brochure ]
+----------------Page (5) Break----------------
