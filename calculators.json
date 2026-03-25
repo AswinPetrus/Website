@@ -1,0 +1,7278 @@
+[
+  {
+    "id": "calc-1",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-2",
+    "title": "Availability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-3",
+    "title": "Performanc Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "e",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-4",
+    "title": "Quality  % Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-5",
+    "title": "Utilization Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-6",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-7",
+    "title": "Throughpu Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "tGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-8",
+    "title": "Shift Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Performanc",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-9",
+    "title": "Bottleneck Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Identificati",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-10",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-11",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-365",
+    "title": "OEE   Converts Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "operational",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-12",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-13",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-14",
+    "title": "Breakdown Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-15",
+    "title": "Predictive Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Maintenan",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-16",
+    "title": "RUL Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Impact",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-0",
+    "title": "MTBF   Shows Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "how",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-17",
+    "title": "Spare Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Parts",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-18",
+    "title": "Exception Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Response",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-19",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-20",
+    "title": "Plant- Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Wide  OEE",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-21",
+    "title": "Exception Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Response",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-22",
+    "title": "Multi-Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Productivit",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-23",
+    "title": "KPI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Deviation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-24",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-25",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-26",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-27",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-28",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-29",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-30",
+    "title": "Costof Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Poor",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-31",
+    "title": "FirstPass Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Yield  (FPY)",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-32",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-33",
+    "title": "Rejection Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Reduction",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-34",
+    "title": "Quality Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Deviation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-35",
+    "title": "Complaint Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "RecallRisk",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-36",
+    "title": "Audit Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Preparation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-37",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-38",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-39",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-40",
+    "title": "Audit Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Preparation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-41",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-42",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-43",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-44",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-45",
+    "title": "Peak  Load Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Penalty",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-46",
+    "title": "Energy  per Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "UnitCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-47",
+    "title": "Carbon Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Footprint",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-48",
+    "title": "Utility Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Load",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-49",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-50",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Savings",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-51",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ErrorCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-52",
+    "title": "Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Balancing",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-53",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "FPY",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-54",
+    "title": "Andon Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Escalation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-55",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-56",
+    "title": "Access Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Governanc",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-57",
+    "title": "Integration Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-58",
+    "title": "Multi- Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Plant",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-59",
+    "title": "Data  Loss Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Prevention",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-60",
+    "title": "OEERoll- Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Up",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-61",
+    "title": "Platform - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-62",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-63",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-64",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-65",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-66",
+    "title": "Breakdown Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-67",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-68",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-69",
+    "title": "Rejection Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Reduction",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-2",
+    "title": "profitability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "improveme",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-70",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-71",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-72",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-73",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Savings",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-74",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ErrorCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-75",
+    "title": "Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Balancing",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-100",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Var",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-76",
+    "title": "Plant- Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Wide  OEE",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-77",
+    "title": "Multi-Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Productivit",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-78",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-79",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Footprint",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-80",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-81",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-82",
+    "title": "Throughpu Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "tGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-83",
+    "title": "Wastage Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-84",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-85",
+    "title": "Quality Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Deviation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-86",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-87",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-88",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-89",
+    "title": "Audit Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Preparation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-90",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-91",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-92",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-93",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-94",
+    "title": "Audit Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Preparation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-95",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-96",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-97",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-98",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-99",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-100",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-101",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-102",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-103",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-104",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Key  for Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "inspection",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-105",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-106",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-107",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-108",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-109",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-110",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-111",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Electronics Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "rework",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-112",
+    "title": "Rejection Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Reduction",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-113",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-114",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-115",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-116",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Footprint",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-117",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-118",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-119",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-120",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-121",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Quality Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "driven",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-122",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-123",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-124",
+    "title": "Utility Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Load",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-125",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-126",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-127",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-128",
+    "title": "Breakdown Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-129",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-130",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-131",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-132",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Essentialin Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "metallurgic",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-133",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-134",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-135",
+    "title": "Throughpu Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "tGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-136",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-137",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-138",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-139",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Strong Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "impacton",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-140",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-141",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-142",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-143",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-144",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-145",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-146",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Drives Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "inspection",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-147",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-148",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-149",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-150",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-151",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-152",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Critical Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-153",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-154",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-155",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-156",
+    "title": "Audit Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Preparation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-157",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-158",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-159",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-160",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-161",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Strict Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "safety",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-162",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-163",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-164",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-165",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-166",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-167",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-168",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-169",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-170",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Protects Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "brand",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-171",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ErrorCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-172",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Savings",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-173",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-174",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-175",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-176",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-177",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-178",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Improves Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "OEM",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-179",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-180",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-181",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-182",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-183",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-184",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-185",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-186",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-187",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-188",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-189",
+    "title": "Module Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-190",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-191",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-192",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Improves Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "customer",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-193",
+    "title": "Wastage Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-194",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-195",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-196",
+    "title": "Module Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-197",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-198",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-199",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-200",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Reduces Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "rework  &",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-201",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-202",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-203",
+    "title": "Module Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-204",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-205",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-206",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Zero - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "defect",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-207",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-208",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-209",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-210",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-211",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-212",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-213",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-214",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "FPY   Essential Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "forsafety",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-215",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-216",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-217",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-218",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-219",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-220",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-221",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-222",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-223",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-224",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-225",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-226",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Cost & Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "quality",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-227",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-228",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-229",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-230",
+    "title": "Module Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-231",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-232",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-233",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-234",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-235",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-236",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-237",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-238",
+    "title": "Module Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-239",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-240",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-241",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-242",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-243",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-244",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-245",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-246",
+    "title": "Module Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-247",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-248",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-249",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Prevents Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "rework  cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-250",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Savings",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-251",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ErrorCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-252",
+    "title": "Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Balancing",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-253",
+    "title": "Andon Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Escalation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-254",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-255",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-256",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-257",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-258",
+    "title": "Utility Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Load",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-259",
+    "title": "Peak  Load Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Penalty",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-260",
+    "title": "Energy  per Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "UnitCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-261",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-262",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-263",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-264",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-265",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-266",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-267",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-268",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-269",
+    "title": "Breakdown Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-270",
+    "title": "Exception Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Response",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-271",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-272",
+    "title": "Plant-wide Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "OEEGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-273",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-274",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-275",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Scrap Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "source",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-276",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-277",
+    "title": "Rejection Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Reduction",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-278",
+    "title": "Complaint Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "RecallRisk",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-279",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-280",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-281",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-282",
+    "title": "Availability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "OEE   Improves Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "uptime",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-283",
+    "title": "Performanc Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "e",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-284",
+    "title": "Quality  % Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-285",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-286",
+    "title": "Shift Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Performanc",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "Quality %  Improves Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "accountabil",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-287",
+    "title": "KPI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Deviation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-288",
+    "title": "Plant-wide Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "OEEGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-289",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-290",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-291",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Identifies Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "process/dri",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-292",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-293",
+    "title": "Rejection Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Reduction",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-294",
+    "title": "Quality Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Deviation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-295",
+    "title": "Complaint Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "RecallRisk",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-296",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-297",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-298",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-299",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-300",
+    "title": "RecallCost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-301",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-302",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-303",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-304",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-305",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-306",
+    "title": "Utility Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Load",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-307",
+    "title": "Peak  Load Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Penalty",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-308",
+    "title": "Energy  per Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "UnitCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-309",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-310",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-311",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-312",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-313",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-314",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Defects = Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "rework  +",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-315",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ErrorCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-316",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-317",
+    "title": "Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Balancing",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-318",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-319",
+    "title": "Andon Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Escalation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-320",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-321",
+    "title": "Plant-wide Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "OEEGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-322",
+    "title": "Multi-Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Productivit",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-323",
+    "title": "Centralized Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Audit",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-324",
+    "title": "Traceability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Integration",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-325",
+    "title": "Data Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Consolidati",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-326",
+    "title": "Standardiz Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ation  Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-327",
+    "title": "Configurati Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "on  vs",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-328",
+    "title": "Platform - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-329",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-330",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-331",
+    "title": "Plant-wide Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "OEEGain",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-332",
+    "title": "Multi-Line Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Productivit",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-333",
+    "title": "Quality Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-334",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-335",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Footprint",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-336",
+    "title": "Scaling Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-337",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-338",
+    "title": "Availability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "OEE   Exposure Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ofidle  time",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-339",
+    "title": "Performanc Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "e",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-340",
+    "title": "Quality  % Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-341",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-342",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-343",
+    "title": "Shift Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Performanc",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "Quality %  Accountabi Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "lity  of",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-344",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-345",
+    "title": "MTTR Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-346",
+    "title": "MTBF Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-347",
+    "title": "Breakdown Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-348",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-349",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-350",
+    "title": "Spare Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "PartsCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-351",
+    "title": "Predictive Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Win  ROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-352",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Waste  in",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-353",
+    "title": "FPY Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-354",
+    "title": "Defect Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Rate",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "COPQ   Faster Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "problem",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-355",
+    "title": "COPQ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-356",
+    "title": "Rejection Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Reduction",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-357",
+    "title": "Quality Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Deviation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-358",
+    "title": "Root Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cause",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-359",
+    "title": "Complaint Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "RecallRisk",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-360",
+    "title": "AuditPrep Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-361",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-362",
+    "title": "Shift Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Performanc",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "Quality %  Daily Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "accountabil",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-363",
+    "title": "OEE Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-364",
+    "title": "Availability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "OEE   Reduce Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "idle  time",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-365",
+    "title": "Performanc Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "e",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-366",
+    "title": "Quality  % Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-367",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Variance",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-368",
+    "title": "Downtime Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Loss",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-369",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-370",
+    "title": "Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-371",
+    "title": "CO₂ Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Footprint",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-372",
+    "title": "Peak  Load Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Penalty",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-373",
+    "title": "Energy  per Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "UnitCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-374",
+    "title": "Utility Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Load",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-375",
+    "title": "Module - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-376",
+    "title": "Centralized Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ESG",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-377",
+    "title": "Configurati Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "on  vs",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-378",
+    "title": "Standardiz Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ation  Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-379",
+    "title": "Centralized Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Data",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-380",
+    "title": "License Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Optimizati",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-381",
+    "title": "Platform - Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "LevelROI",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-382",
+    "title": "Integration Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Cost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-383",
+    "title": "Deploymen Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "tTime",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-384",
+    "title": "Cycle  Time Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Savings",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-385",
+    "title": "Assembly Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "ErrorCost",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-386",
+    "title": "Availability Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-00",
+    "title": "OEE   Direct Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "operator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-387",
+    "title": "Quality  % Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-388",
+    "title": "Andon Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Escalation",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-389",
+    "title": "Safety Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Incident",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-390",
+    "title": "ROI Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Calculator",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-391",
+    "title": "Simple Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "OEE",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-392",
+    "title": "Simple Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "FPY",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-393",
+    "title": "“Lost Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Money",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-394",
+    "title": "“Costof Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Scrap ”",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-395",
+    "title": "“Energy Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Bill",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-396",
+    "title": "Business Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Case",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  },
+  {
+    "id": "calc-397",
+    "title": "“Where  to Calculator",
+    "category": "Production Monitoring",
+    "product": "Production Monitoring",
+    "industries": [
+      "Auto",
+      "FMCG"
+    ],
+    "personas": [
+      "Operator"
+    ],
+    "description": "Start? ”",
+    "inputs": [],
+    "relations": [],
+    "calculateStr": ""
+  }
+]
