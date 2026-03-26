@@ -117,7 +117,7 @@ function generateHTML(title, textArray) {
 
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="js/app.js"></script>
+    <script src="./js/app.js"></script>
     <script src="js/components.js"></script>
 </body>
 </html>`;
